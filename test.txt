@@ -1,0 +1,1 @@
+Hello GoLang - I am using html/template packages when
