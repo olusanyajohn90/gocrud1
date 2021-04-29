@@ -1,1 +1,1 @@
-# gocrud1
+# golang Crud Project template
